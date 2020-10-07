@@ -1,10 +1,14 @@
+
+![Profile banner](https://github.com/mananchawla2005/mananchawla2005/blob/master/BannerGithub.png)
 # Hi there 👋
 
-### I am Manan Chawla, just another guy who loves to code and contribute. I am 15 years old and is in high school right now.
-- 🔭 I’m currently working on sharpening my skills mainly machine learning and web development
-- 🌱 I’m currently learning javascript, java and python
-- 👯 I’m looking to collaborate on as much opensource repositories as i can 
-- 💬 Ask me about anything. I will try to answer if i could.
+### I am Manan Chawla, just another guy who loves to code and contribute. I am 15 years old and is in high school right now. 
+## 🔭 I’m currently working on 
+#### Sharpening my skills mainly machine learning and web development
+## 🌱 I’m currently learning 
+#### Javascript, Java and Python
+## 👯 I’m looking to collaborate on 
+#### As much opensource repositories as I can! 
 
 # Social Media
 **Instagram** [_manan2005](https://www.instagram.com/_manan2005/)
