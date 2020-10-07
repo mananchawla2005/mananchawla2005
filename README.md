@@ -21,7 +21,8 @@
 <a href="https://www.instagram.com/_manan2005/"><img src="https://img.shields.io/badge/<_manan2005>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/manan-chawla-a89855193/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
 Email Id: [mananapeejay@gmail.com](mailto:mananapeejay@gmail.com)
-Website: [Portfolio](portfolio.mananchawla2005.repl.co)
+<br>
+Website: [Portfolio](https://portfolio.mananchawla2005.repl.co/)
 
 ## Github Stats..
 
