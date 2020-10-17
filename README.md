@@ -31,6 +31,9 @@ Website: [Portfolio](https://portfolio.mananchawla2005.repl.co/)
 <a href="https://github.com/mananchawla2005/UrlShortner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mananchawla2005&repo=UrlShortner&theme=radical" />
 </a>
+<a href="https://github.com/mananchawla2005/Hacktoberfest-Repo-Checker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mananchawla2005&repo=Hacktoberfest-Repo-Checker&theme=radical" />
+</a>
 
 <!--
 **mananchawla2005/mananchawla2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
