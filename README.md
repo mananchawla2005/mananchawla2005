@@ -28,11 +28,11 @@ Website: [Portfolio](https://mananchawla.ml)
 
 ![Manan's github stats](https://github-readme-stats.vercel.app/api?username=mananchawla2005&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mananchawla2005&theme=radical)]()
-<a href="https://github.com/mananchawla2005/UrlShortner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mananchawla2005&repo=UrlShortner&theme=radical" />
-</a>
 <a href="https://github.com/mananchawla2005/Hacktoberfest-Repo-Checker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mananchawla2005&repo=Hacktoberfest-Repo-Checker&theme=radical" />
+</a>
+<a href="https://github.com/mananchawla2005/twitter-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mananchawla2005&repo=twitter-clone&theme=radical" />
 </a>
 
 <!--
