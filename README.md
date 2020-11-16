@@ -23,6 +23,7 @@
 Email Id: [mananapeejay@gmail.com](mailto:mananapeejay@gmail.com)
 <br>
 Website: [Portfolio](https://mananchawla.ml)
+Website: [Blog](https://blog.mananchawla.ml)
 
 ## Github Stats..
 
