@@ -13,6 +13,7 @@
 #### I love to play piano.
 
 ## Languages and skills
+<img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/> <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
@@ -22,9 +23,9 @@
 <br>
 Email Id: [mananapeejay@gmail.com](mailto:mananapeejay@gmail.com)
 <br>
-Website: [Portfolio](https://mananchawla.ml)
+Website: [Portfolio](https://new-website-6ef.pages.dev)
 <br>
-Website: [Blog](https://blog.mananchawla.ml)
+Website: [Blog](https://new-website-6ef.pages.dev/blog)
 <br>
 Tryhackme: https://tryhackme.com/p/manan0005
 <br>
@@ -38,8 +39,8 @@ Tryhackme: https://tryhackme.com/p/manan0005
 <a href="https://github.com/mananchawla2005/Hacktoberfest-Repo-Checker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mananchawla2005&repo=Hacktoberfest-Repo-Checker&theme=radical" />
 </a>
-<a href="https://github.com/mananchawla2005/twitter-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mananchawla2005&repo=twitter-clone&theme=radical" />
+<a href="https://github.com/teamneuralnexus/mediviser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teamneuralnexus&repo=mediviser&theme=radical" />
 </a>
 
 
