@@ -2,7 +2,7 @@
 ![Profile banner](https://github.com/mananchawla2005/mananchawla2005/blob/master/BannerGithub.png)
 # Hi there 👋
 
-### I am Manan Chawla, just another guy who loves to code and contribute. I am 18 years old and is in high school right now. 
+### I am Manan Chawla, just another guy who loves to code and contribute. I am 18 years old and is in my undergrad right now. 
 ## 🔭 I’m currently working on 
 #### Sharpening my skills in mainly deep learning and web development
 ## 🌱 I’m currently learning 
